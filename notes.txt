@@ -1,0 +1,4 @@
+TypeError: retrieve() got an unexpected keyword argument 'progressbar'
+
+To Solve:
+Navigate to this location - C:\Users\jasmine.thant\rembg\rembg\sessions then open u2net.py and remove that argument progressbar=True.
